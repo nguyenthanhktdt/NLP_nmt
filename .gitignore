@@ -193,4 +193,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-api/api4app/model/*
+api/api4app/model/vien/*
